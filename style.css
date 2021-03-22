@@ -1,0 +1,35 @@
+#border{
+    display: inline-block;
+    width: 120px;
+    height: 120px;
+    margin: 3px;
+    border-style: hidden;
+  }
+
+  .box2{
+      width: 320px;
+      padding-top: 80px;
+      margin: 0;
+      padding-left: 40px;
+  }
+
+  .box1{
+      text-align: center;
+      font-weight: bold;
+  }
+
+  body{
+      background-color:lightgray;
+  }
+
+  #BackGround{
+      background-color: white;
+  }
+
+  .nav-item{
+      margin: 2px;
+      padding:2px;
+      border: 2px;
+  }
+
+
