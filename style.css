@@ -14,12 +14,12 @@
   }
 
   .box1{
-      text-align: center;
+      text-align: center;  /*'Or' to bold and center*/
       font-weight: bold;
   }
 
   body{
-      background-color:lightgray;
+      background-color:lightgrey;
   }
 
   #BackGround{
@@ -33,9 +33,16 @@
   }
 
   a{
-      color: black;
+      color: black; /*link color to black */
+  }
+  
+  figure:hover, a:hover{
+      background-color: lightblue; /* change color to blue on hover*/
   }
 
+ figure{
+     text-align: center; /* Alignment of icons and text to center*/
+ }
 
 
 
